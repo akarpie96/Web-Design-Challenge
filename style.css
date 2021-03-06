@@ -53,7 +53,18 @@ text-align:left;
 
 .Max_Plot{
   color:black;
-  text-align:center;
+  text-align:left;
   color:rgb(20, 150, 150);
   font-size: 40px;
+}
+
+
+.temp_summary{
+  color:black;
+  font-weight:lighter;
+}
+
+.viz_header{
+  color:rgb(20, 150, 150);
+  font-size: 25px;
 }
