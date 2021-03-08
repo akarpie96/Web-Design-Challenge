@@ -31,7 +31,7 @@
   }
 
   h1{
-text-align: left;
+text-align: center;
 color:rgb(20, 150, 150);
 font-family: 'Times New Roman', Times, serif;
 font-size: 50px;
@@ -87,3 +87,7 @@ padding-top: 20px;
 background-color: white;
 }
 
+
+h2{
+  background-color:white;
+}
