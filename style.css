@@ -31,7 +31,7 @@
   }
 
   h1{
-text-align: center;
+text-align:center;
 color:rgb(20, 150, 150);
 font-family: 'Times New Roman', Times, serif;
 font-size: 50px;
@@ -90,9 +90,13 @@ background-color: white;
 
 
 h2{
-  background-color:white;
-  padding-top: 40px;
-padding-bottom: 40px ;
+  text-align: center;
+color:rgb(20, 150, 150);
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+font-weight: bolder;  
+padding-top: 40px;
+background-color: white;
 }
 
 
